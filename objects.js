@@ -1,4 +1,4 @@
-var playlist = {mark: "Onipa"}
+var playlist = {}
 
 function updatePlaylist(obj, artiste, title){
   // updatedList = Object.assign( {}, playlist, {[artiste]: [title] })
