@@ -5,3 +5,5 @@ function updatePlaylist(obj, artiste, title){
   obj[artiste] = title;
   return obj
 }
+
+function removeFromPlaylist()
