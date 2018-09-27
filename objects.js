@@ -7,3 +7,4 @@ var meals = {firstMeal: 'oatmeal'}
 var meals = {[firstMeal]: 'oatmeal'}
 
 meals.breakfast
+meals['breakfast']
