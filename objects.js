@@ -9,3 +9,5 @@ var meals = {[firstMeal]: 'oatmeal'}
 meals.breakfast
 meals['breakfast']
 meals.firstMeal = undefind
+
+Object.assign()
